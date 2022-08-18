@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  helm-app:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-08-18T19:21:18.510739+05:30"
+    description: Simple application to deploy any kubernetes object
+    digest: 29db110075f686b557146fcea6cf295a58efce12b66352e8de26a0f53b878140
+    maintainers:
+    - email: er.sandeep.krp@gmail.com
+      name: Sandeep Kumar
+    name: helm-app
+    type: application
+    urls:
+    - helm-app-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-08-18T19:21:18.510025+05:30"
